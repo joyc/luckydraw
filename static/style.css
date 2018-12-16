@@ -1,0 +1,21 @@
+
+.btn {
+    padding: 7px 12px;
+    cursor: pointer;
+}
+
+.btn-visit {
+    color: #5c4ac7;
+    border: 1px solid #5c4ac7;
+}
+
+.button-list a {
+    margin: 5px 12px 5px 0;
+}
+
+.table > tbody > tr > td {
+    font-family: 'Open Sans', sans-serif;
+    color: #67757c;
+    border-bottom: 1px solid #e7e7e7;
+    font-weight: 400!important;
+}
